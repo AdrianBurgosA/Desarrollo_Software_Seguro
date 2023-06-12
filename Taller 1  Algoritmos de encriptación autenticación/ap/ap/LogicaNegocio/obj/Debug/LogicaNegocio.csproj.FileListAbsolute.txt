@@ -1,0 +1,11 @@
+C:\projects\puntonet\ap\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\projects\puntonet\ap\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\DELL\Desktop\Septimo\sofseg\ap\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
